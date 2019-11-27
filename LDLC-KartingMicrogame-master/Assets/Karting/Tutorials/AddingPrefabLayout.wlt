@@ -400,7 +400,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Karting/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Dropbox\A_LECOLE_LDLC\formations\formations TU\TU Pygame Unity\LDLC-KartingMicrogame-master\LDLC-KartingMicrogame-master
+  m_LastProjectPath: C:\Users\Jean Noël\Documents\GitUnity\test\LDLC-KartingMicrogame-master
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
